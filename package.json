@@ -2,6 +2,7 @@
   "name": "bootstrap-wysiwyg",
   "version": "1.0.4",
   "description": "A tiny Bootstrap and jQuery based WYSIWYG rich text editor based on the browser function execCommand.",
+  "main": "src/bootstrap-wysiwyg.js",
   "contributors": [
     {
       "name": "Steve King",
